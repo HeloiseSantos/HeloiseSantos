@@ -1,7 +1,7 @@
 ## Hello World! :earth_americas:
 Meu nome é Heloíse, também conhecida como Helô. :raising_hand:<br/>
 Sou formada em tecnologia em Gestão Pública pela faculdade FAEL.<br/>
-Atualmente curso bacharel em Sistemas de Informação pelo Universidade Veiga de Almeida.<br/>
+Atualmente curso bacharel em Sistemas de Informação pela Universidade Veiga de Almeida.<br/>
 Trabalho como desenvolvedora Front-end Jr na TAG Infraestrutura, uma empresa do grupo Stone.
 
 Um pouco sobre minhas soft skills:
@@ -15,7 +15,7 @@ Agora sobre minhas hard skills na área de Front-end (por enquanto):
 
   - :computer: HTML;
   - :computer: CSS;
-  - :computer: Estudando Javascript;
+  - :computer: Estudando Javascript OO;
   - :computer: Estudando Angular CLI;
   
  Redes sociais:
