@@ -2,8 +2,8 @@
 
 <div>
   <p>
-    Sou formada em tecnologia em Gestão Pública pela faculdade FAEL.<br/>
-    Atualmente curso bacharel em Sistemas de Informação pela Universidade Veiga de Almeida.<br/>
+    Sou formada em Tecnologia em Gestão Pública pela faculdade FAEL.<br/>
+    Atualmente curso Bacharelado em Sistemas de Informação pela Universidade Veiga de Almeida.<br/>
     Trabalho como desenvolvedora Front-end Pleno na TAG Infraestrutura, uma empresa do grupo Stone Co.<br/>
   </p>
 </div>
