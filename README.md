@@ -1,5 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=%23FF96BC&size=28&lines=Hello+World!+Eu+sou+a+Hel%C3%B4!)](https://git.io/typing-svg)
 <div>
+  <br/>
   <p>
     Sou formada em Tecnologia em Gestão Pública pela faculdade FAEL.<br/>
     Atualmente curso Bacharelado em Sistemas de Informação pela Universidade Veiga de Almeida.<br/>
