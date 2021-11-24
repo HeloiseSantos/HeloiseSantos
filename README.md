@@ -1,24 +1,15 @@
-# Hello World! Eu sou a Helô!
+# Hello World! I'm Heloíse Santos!
 
 <div>
   <br/>
   <p>
-    Sou formada em Tecnologia em Gestão Pública pela faculdade FAEL.<br/>
-    Atualmente curso Bacharelado em Sistemas de Informação pela Universidade Veiga de Almeida.<br/>
-    Trabalho como desenvolvedora Front-end Pleno na TAG Infraestrutura, uma empresa do grupo Stone Co.<br/>
+    👩‍🎓 Graduated in Technology in Public Management at FAEL university.<br/>
+    📚 Studying Bachelor's in Information Systems at Veiga de Almeida University.<br/>
+    👩‍💻 Front-end Developer at TAG IMF | Stone Co.<br/>
   </p>
 </div>
 
-<div>
-  <a href="https://github.com/HeloiseSantos">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HeloiseSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/HeloiseSantos">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeloiseSantos&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
-
-## Skills
+## Tech Skills
 
 <div style="display: inline_block">
   <br>
@@ -37,7 +28,19 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
 </div>
 
-## Contato
+
+## GitHub Analytics
+
+<div>
+  <a href="https://github.com/HeloiseSantos">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HeloiseSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/HeloiseSantos">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeloiseSantos&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
+
+## Contact | Social Link
 
 <div>
   <br>
