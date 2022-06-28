@@ -48,7 +48,7 @@
   <a href="mailto:heloise.hssantos@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail&logoColor=E34133" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/heloíse-santos-03442b16b" target="_blank">
+  <a href="https://www.linkedin.com/in/heloisesantos" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=0072AD" target="_blank">
   </a>
 </div>
