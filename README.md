@@ -4,8 +4,8 @@
   <br/>
   <p>
     👩‍🎓 Graduated in Technology in Public Management at FAEL university.<br/>
-    📚 Studying Bachelor's in Information Systems at Veiga de Almeida University.<br/>
-    👩‍💻 Front-end Developer and Team Leader at TAG IMF | Stone Co.<br/>
+    📚 Graduated in Bachelor's in Information Systems at Veiga de Almeida University.<br/>
+    👩‍💻 Front-end Developer at TAG IMF | Stone Co.<br/>
   </p>
 </div>
 
