@@ -29,18 +29,6 @@
   <img src="https://img.shields.io/badge/Windows-20232A?style=for-the-badge&logo=windows&logoColor=0073CC" alt="Windows">
 </div>
 
-
-## GitHub Analytics
-
-<div>
-  <a href="https://github.com/HeloiseSantos">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HeloiseSantos&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/HeloiseSantos">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeloiseSantos&layout=compact&langs_count=7&theme=react"/>
-  </a>
-</div>
-
 ## Contact | Social Link
 
 <div>
