@@ -5,8 +5,8 @@
   <p>
     👩‍🎓 Graduated in Technology in Public Management at FAEL university.<br/>
     👩‍🎓 Graduated in Bachelor's in Information Systems at Veiga de Almeida University.<br/>
-    👩‍🎓 Studying specialization in Full Stack Develpment at FIAP.<br/>
-    👩‍💻 Front-end Developer at TAG IMF | Stone Co.<br/>
+    👩‍🎓 Specialization in Full Stack Develpment at FIAP.<br/>
+    👩‍💻 Fullstack Developer at TAG IMF | Stone Co.<br/>
   </p>
 </div>
 
